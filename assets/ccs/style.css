@@ -11,6 +11,11 @@ body  * {
    width: 700px;
 }
 
+.datos {
+    display: contents;
+    text-align: left;
+}
+
 .Section-one {
 
     display: flex;
